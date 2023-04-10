@@ -14,7 +14,7 @@ public void getinfo( ){
 	
 	*/
 
-	string firstName = "john';
+	string firstName = "john";
 }
 
 
